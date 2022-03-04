@@ -1,2 +1,2 @@
-# doc
+# Document
 initialization code
